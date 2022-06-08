@@ -1,0 +1,7 @@
+C:\Users\52664\source\repos\Escritura_Byte\Escritura_Byte\bin\Debug\Escritura_Byte.exe.config
+C:\Users\52664\source\repos\Escritura_Byte\Escritura_Byte\bin\Debug\Escritura_Byte.exe
+C:\Users\52664\source\repos\Escritura_Byte\Escritura_Byte\bin\Debug\Escritura_Byte.pdb
+C:\Users\52664\source\repos\Escritura_Byte\Escritura_Byte\obj\Debug\Escritura_Byte.csproj.AssemblyReference.cache
+C:\Users\52664\source\repos\Escritura_Byte\Escritura_Byte\obj\Debug\Escritura_Byte.csproj.CoreCompileInputs.cache
+C:\Users\52664\source\repos\Escritura_Byte\Escritura_Byte\obj\Debug\Escritura_Byte.exe
+C:\Users\52664\source\repos\Escritura_Byte\Escritura_Byte\obj\Debug\Escritura_Byte.pdb
